@@ -1,4 +1,5 @@
 vue-cli构建个人技术信息，求职简历网页
+主要技术栈：vue+vue-cli+vue-router+elementUI
 
 # blog
 
